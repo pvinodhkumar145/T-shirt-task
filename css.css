@@ -1,0 +1,53 @@
+img{
+    height: 40px;
+    width: 30px;
+}
+
+#container{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#search{
+    display: flex;
+    border: 2px solid cornflowerblue;
+    width: 70vh;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+
+}
+.input{
+    border: none;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#search-product{
+    width: 75vh;
+    border:  2px solid cornsilk;
+    padding: 20px;
+    border-radius: 20px;
+}
+.img-1{
+    height: 180px;
+    width: 120px;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.product{
+    display: flex;
+    align-items: center;
+}
+#text-p{
+    margin-left: 30px;
+    color: red;
+}
+.font{
+    font-size: 30px;
+    color: blue;
+}
+.rupees{
+    font-size: 25px;
+}
